@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Aditya Maurya
 
 ### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
