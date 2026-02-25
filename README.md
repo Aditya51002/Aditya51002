@@ -1,207 +1,145 @@
 <div align="center">
-  
-# 👋 Hi, I'm Aditya Maurya
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
+# Aditya Maurya
+### Full Stack Developer | Software Tester | Android Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[LinkedIn](https://linkedin.com/in/adityamaurya5) • 
+[GitHub](https://github.com/Aditya51002) • 
+Email: adityamaurya510@gmail.com
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-I'm a passionate **Full Stack Developer** on a mission to build impactful web applications. Currently mastering the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and exploring the endless possibilities of modern web development.
+I am a Full Stack Developer, Software Tester, and Android Developer with strong expertise in the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
-- 🌱 Currently learning: **MERN Stack Development** from basic to advanced
-- 💼 Working on: Building interactive web applications and micro-projects
-- 🎯 Goal: Create production-ready, scalable full-stack applications
-- 💡 Interests: Web Development, Cloud Computing, UI/UX Design, Problem Solving
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions!
+I focus on building scalable, production-ready applications with clean architecture, efficient backend systems, structured testing practices, and reliable mobile solutions.
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **Currently Learning**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- Strong foundation in Data Structures & Algorithms  
+- Experience in full-stack web and Android application development  
+- Knowledge of manual and automated software testing methodologies  
+- Skilled in debugging, API testing, and quality assurance practices  
+- Interested in Backend Development, Cloud, and Mobile Application Development  
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
-
-</div>
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌐 [Dashboard Application](https://github.com/yourusername/dashboard)
-A modern, responsive dashboard with dynamic routing, header, footer, and sidebar navigation.
-<br>
-**Tech:** HTML5, CSS3, JavaScript | **Features:** Multi-page routing, Responsive design
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-### 📝 [Task Management App](https://github.com/yourusername/todo-app)
-Full-featured todo list with local storage, task prioritization, and timestamps.
-<br>
-**Tech:** JavaScript, LocalStorage, CSS3 | **Features:** CRUD operations, Date tracking
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+REST APIs • Authentication • MVC Architecture
 
 ---
 
-### 🌤️ [Weather Dashboard](https://github.com/yourusername/weather-app)
-Real-time weather application with city search and recent search history.
-<br>
-**Tech:** JavaScript, Weather API, LocalStorage | **Features:** API integration, Error handling
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+Database Design • Indexing • CRUD Optimization
 
 ---
 
-### ⚖️ [BMI Calculator](https://github.com/yourusername/bmi-calculator)
-Health tool to calculate Body Mass Index with visual feedback and recommendations.
-<br>
-**Tech:** HTML, CSS, JavaScript | **Features:** Form validation, Dynamic calculations
+### Software Testing & Quality Assurance
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated by GitHub Actions -->
-- [Getting Started with MERN Stack Development](https://yourblog.com/mern-stack)
-- [Building Responsive Dashboards with Modern CSS](https://yourblog.com/responsive-dashboards)
-- [JavaScript Best Practices for Beginners](https://yourblog.com/js-best-practices)
-- [Understanding React Hooks: A Complete Guide](https://yourblog.com/react-hooks)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://yourblog.com)
+Manual Testing • API Testing • Debugging • Test Case Design
 
 ---
 
-## 🔥 Recent GitHub Activity
+### Android Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
-<!--START_SECTION:activity-->
-<!-- This section will be automatically updated -->
-<!--END_SECTION:activity-->
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
+Kotlin • Java • XML Layouts • Activity Lifecycle • REST Integration
 
 ---
 
-## 📈 Contribution Graph
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🎓 Education
-**Currently Learning:** MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
-- Building full-stack web applications
-- Mastering frontend and backend technologies
-- Creating responsive and interactive user interfaces
-
-### 🏅 Certifications
-- Web Development Fundamentals
-- JavaScript Advanced Concepts
-- React.js Development
+VS Code • IntelliJ IDEA
 
 ---
 
-## 🌟 Interests & Hobbies
-
-```javascript
-const myInterests = {
-    coding: ["Web Development", "Problem Solving", "Open Source"],
-    learning: ["MERN Stack", "Cloud Computing", "DevOps"],
-    hobbies: ["Building Projects", "Reading Tech Blogs", "Contributing to Open Source"],
-    goals: ["Master Full Stack Development", "Build Production Apps", "Help Others Learn"]
-};
-```
+### Core Computer Science
+Data Structures & Algorithms  
+Object-Oriented Programming  
+Operating Systems  
+Computer Networks  
 
 ---
 
-## 📬 Get In Touch
+## Projects
 
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
+### Arv-Foundation
+- Developed a full-stack web platform with structured backend architecture  
+- Designed responsive frontend and implemented REST APIs  
+- Managed secure database operations  
 
 ---
 
-<div align="center">
-
-### 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-
-### ⭐ Show some ❤️ by starring some of my repositories!
-
-</div>
+### Library Management System
+- Built a system for managing book inventory, issue/return tracking, and user management  
+- Implemented CRUD operations with validation and structured database design  
+- Applied OOP principles for scalable architecture  
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+### AI-Powered Creative Writing Assistant
+- Developed an AI-based interactive writing assistant  
+- Integrated backend APIs for dynamic content generation  
+- Designed a responsive and user-friendly interface  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya51002&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya51002&layout=compact&hide_border=true)
+
+---
+
+## Currently Learning
+- Advanced Backend Architecture  
+- Docker & Deployment  
+- Cloud Fundamentals (AWS)  
+- Android Development  
+
+---
+
+## Contact
+
+Email: adityamaurya510@gmail.com  
+LinkedIn: https://linkedin.com/in/adityamaurya5  
+
+---
+
+*Open to Full Stack Developer, Software Tester, and Android Developer opportunities.*
