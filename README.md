@@ -1,7 +1,10 @@
 <div align="center">
 
-# Aditya Maurya
-### Full Stack Developer | Software Tester | Android Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=180&section=header&text=Aditya%20Maurya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Tester;Android+Developer;MERN+Stack+Engineer" />
+</h2>
 
 [LinkedIn](https://linkedin.com/in/adityamaurya5) • 
 [GitHub](https://github.com/Aditya51002) • 
@@ -11,9 +14,9 @@ Email: adityamaurya510@gmail.com
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a Full Stack Developer, Software Tester, and Android Developer with strong expertise in the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+I am a **Full Stack Developer, Software Tester, and Android Developer** with strong expertise in the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
 I focus on building scalable, production-ready applications with clean architecture, efficient backend systems, structured testing practices, and reliable mobile solutions.
 
@@ -25,7 +28,7 @@ I focus on building scalable, production-ready applications with clean architect
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -96,7 +99,7 @@ Computer Networks
 
 ---
 
-## Projects
+## 📌 Projects
 
 ### Arv-Foundation
 - Developed a full-stack web platform with structured backend architecture  
@@ -119,15 +122,7 @@ Computer Networks
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya51002&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya51002&layout=compact&hide_border=true)
-
----
-
-## Currently Learning
+## 📚 Currently Learning
 - Advanced Backend Architecture  
 - Docker & Deployment  
 - Cloud Fundamentals (AWS)  
@@ -135,11 +130,13 @@ Computer Networks
 
 ---
 
-## Contact
+## 📬 Contact
 
 Email: adityamaurya510@gmail.com  
 LinkedIn: https://linkedin.com/in/adityamaurya5  
 
 ---
 
-*Open to Full Stack Developer, Software Tester, and Android Developer opportunities.*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=120&section=footer"/>
+</div>
